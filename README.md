@@ -87,26 +87,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TheDeveloperBaran/TheDeveloperBaran/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31svlzkhtodhuii5z4i5ik4yt3li">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31svlzkhtodhuii5z4i5ik4yt3li&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDeveloperBaran/TheDeveloperBaran/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDeveloperBaran/TheDeveloperBaran/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheDeveloperBaran/TheDeveloperBaran/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
